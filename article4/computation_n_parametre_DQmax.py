@@ -4,7 +4,7 @@ import numpy as np
 import pandas as pd
 from scipy.signal import welch, butter, filtfilt, find_peaks, detrend
 
-# Configuration des chemins de fichierss
+# Configuration des chemins de fichieer test commit
 output_dir = r"C:\Users\antoi\Desktop\python projects\weather_article456_project\data"
 os.makedirs(output_dir, exist_ok=True)
 
